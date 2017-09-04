@@ -43,9 +43,6 @@ To test a code in windows
 <img src="./image_upload/flowchart.png" width=850>
 <img src="./image_upload/systemdesign.png" width=850>
 <img src="./image_upload/surfacenormal.png" width=850>
-<img src="./image_upload/snv_time.png" width=850>
-<img src="./image_upload/snv_acc.png" width=850>
-<img src="./image_upload/snv_result.png" width=850>
 
 
 ### Result
@@ -54,3 +51,8 @@ Video : [3D visualization](https://youtu.be/y0BXYQKaXmU?t=5s)
 Video : [Objectness, surface normal](https://youtu.be/8oB7MsPZG8c)
 
 
+### Acknowledgement
+
+This project working in CVLab. at Inha Univ.
+
+http://vision.inha.ac.kr/
