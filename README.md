@@ -53,6 +53,6 @@ Video : [Objectness, surface normal](https://youtu.be/8oB7MsPZG8c)
 
 ### Acknowledgement
 
-This project working in CVLab. at Inha Univ.
+This project has been working in CVLab. at Inha Univ.
 
 http://vision.inha.ac.kr/
